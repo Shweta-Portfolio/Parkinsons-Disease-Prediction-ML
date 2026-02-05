@@ -47,7 +47,7 @@ The dataset contains **755 features** from voice recordings of patients, includi
 - Train-test split (80-20)
 - Model training and evaluation
 
-## 💻 Installation
+##  Installation
 
 ### Prerequisites
 ```bash
@@ -67,7 +67,7 @@ git clone https://github.com/yourusername/parkinson-disease-prediction.git
 cd parkinson-disease-prediction
 ```
 
-## 🚀 Usage
+##   Usage
 
 ### 1. Load and Explore Data
 ```python
@@ -95,7 +95,7 @@ print(f"Dataset shape: {df.shape}")
 predictions = models[0].predict(X_val)
 ```
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Validation Results (Logistic Regression):
 
@@ -138,7 +138,7 @@ predictions = models[0].predict(X_val)
 - **warnings**: Error suppression for cleaner output
 
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. **Data Preprocessing**
    - Load dataset with 755 features
