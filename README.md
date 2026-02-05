@@ -184,6 +184,3 @@ The Logistic Regression model demonstrates excellent performance:
 
 ### Clinical Significance:
 The high recall rate (92%) for Parkinson's Disease detection is particularly important in medical diagnosis, as it minimizes the risk of missing true positive cases, enabling early intervention and treatment.
-
-
-⭐ If you found this project helpful, please consider giving it a star!
